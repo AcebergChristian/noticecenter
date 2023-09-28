@@ -1,0 +1,8 @@
+APScheduler==3.10.4
+croniter==1.4.1
+PyMySQL==1.0.3
+PySide6==6.4.2
+PySide6==6.5.2
+PySide6_Addons==6.4.2
+PySide6_Essentials==6.4.2
+Requests==2.31.0
